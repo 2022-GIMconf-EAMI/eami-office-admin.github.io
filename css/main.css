@@ -917,7 +917,7 @@ a.download-button {
 	background:#df7d00;
 	color:white;
 	font-weight:bold;
-	font-size:2.5rem;
+	font-size:2.0rem;
 	margin:1rem auto;
 	padding:1.5rem;
 	display:inline-block;
@@ -925,7 +925,7 @@ a.download-button {
 }
 
 a.download-button:hover {
-	color:black;
+	color:grey;
 	text-decoration:none;
 }
 @media only screen and (min-width: 1024px) {
